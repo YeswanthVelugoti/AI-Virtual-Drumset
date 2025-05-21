@@ -47,4 +47,31 @@ A real-time virtual drumset built using Python and OpenCV that allows you to pla
 git clone https://github.com/your-username/AI-virtual-drumset.git
 cd AI-virtual-drumset
 
+### 2. Install dependencies:
+```bash
+pip install opencv-python numpy pyautogui imutils
+```
+
+### 3. Run the script:
+```bash
+python virtual_drumset.py
+```
+
+Make sure your webcam is active. Use a red/blue colored object to simulate a drumstick.
+
+---
+
+## 🎯 Applications
+
+- Virtual musical instrument interfaces
+- Interactive music education tools
+- Gesture-controlled interfaces
+- Fun AI/Computer Vision projects for students and beginners
+
+---
+
+## 🙋‍♂️ Author
+
+**Yeswanth Sai Kumar Velugoti**  
+[Email](mailto:yeswanthvelugoti@gmail.com) • [LinkedIn](https://www.linkedin.com/in/yeswanth-velugoti-4290741a0/)
 
