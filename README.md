@@ -46,6 +46,7 @@ A real-time virtual drumset built using Python and OpenCV that allows you to pla
 ```bash
 git clone https://github.com/your-username/AI-virtual-drumset.git
 cd AI-virtual-drumset
+```
 
 ### 2. Install dependencies:
 ```bash
